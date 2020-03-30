@@ -9,6 +9,6 @@ To build the test:
 
 To run the test
 # cd build
-# CalcTestSteps > /dev/null &
+# ./CalcTestSteps > /dev/null &
 # cd ..
 # cucumber 

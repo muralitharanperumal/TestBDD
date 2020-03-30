@@ -15,6 +15,8 @@ else
    echo "googletest already cloned"
 fi
 
+cd ${cwd}
+
 # Create build directory
 cmake -E make_directory build
 
